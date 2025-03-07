@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>DotNetFrameworkTestExplorer</AssemblyName>
+    <RootNamespace>DotNetFrameworkTestExplorer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="src\Adapter\TestExplorerAdapter.cs" />
+    <Compile Include="src\Adapter\TestDiscoverer.cs" />
+    <Compile Include="src\UI\TestExplorerWindow.cs" />
+    <Compile Include="src\UI\TestResultView.cs" />
+    <Compile Include="src\Utils\Logger.cs" />
+  </ItemGroup>
+
+</Project>

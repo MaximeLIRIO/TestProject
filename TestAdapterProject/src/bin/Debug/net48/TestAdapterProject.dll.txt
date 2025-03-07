@@ -1,0 +1,2 @@
+TestAdapterProject.Tests.SampleTest.TestMethod1
+TestAdapterProject.Tests.SampleTest.TestMethod2

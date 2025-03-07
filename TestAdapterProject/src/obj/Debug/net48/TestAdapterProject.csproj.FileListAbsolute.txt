@@ -1,0 +1,17 @@
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\TestAdapterProject.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\TestAdapterProject.pdb
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.csproj.AssemblyReference.cache
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.AssemblyInfoInputs.cache
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.AssemblyInfo.cs
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.csproj.CoreCompileInputs.cache
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.sourcelink.json
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdap.B592176D.Up2Date
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.dll
+C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\TestAdapterProject\src\obj\Debug\net48\TestAdapterProject.pdb

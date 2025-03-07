@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EcwGc/rMTtw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mxmli\\OneDrive\\Documents\\GitHub\\TestProject\\TestAdapterProject\\src\\TestAdapterProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mxmli\\.nuget\\packages\\mstest.testadapter\\2.2.8\\mstest.testadapter.2.2.8.nupkg.sha512",
+    "C:\\Users\\mxmli\\.nuget\\packages\\mstest.testframework\\2.2.8\\mstest.testframework.2.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}

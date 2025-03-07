@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = DotNetFrameworkTestExplorer
+build_property.ProjectDir = C:\Users\mxmli\OneDrive\Documents\GitHub\TestProject\dotnet-framework-test-explorer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

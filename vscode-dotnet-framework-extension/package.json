@@ -1,0 +1,52 @@
+{
+  "name": "vscode-dotnet-framework-extension",
+  "displayName": "DotNet Framework Extension",
+  "description": "An offline extension for creating and managing .NET Framework projects and tests.",
+  "version": "0.1.0",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "activationEvents": [
+    "onCommand:createProject",
+    "onCommand:createSolution",
+    "onCommand:addProjectReference",
+    "onCommand:debug",
+    "onCommand:testExplorer"
+  ],
+  "main": "./src/extension.ts",
+  "contributes": {
+    "commands": [
+      {
+        "command": "createProject",
+        "title": "Create Project"
+      },
+      {
+        "command": "createSolution",
+        "title": "Create Solution"
+      },
+      {
+        "command": "addProjectReference",
+        "title": "Add Project Reference"
+      },
+      {
+        "command": "debug",
+        "title": "Debug Project"
+      },
+      {
+        "command": "testExplorer",
+        "title": "Open Test Explorer"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./tsconfig.json",
+    "watch": "tsc -watch -p ./tsconfig.json",
+    "postinstall": "node ./node_modules/vscode/bin/install"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "vscode": "^1.60.0"
+  }
+}
